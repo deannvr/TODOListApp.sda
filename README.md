@@ -1,5 +1,5 @@
 # Welcome to my ToDoList Application
-This ToDoList Application provides time tracking capabilities, creating projects,
+This ToDoList Application provides sorting capabilities, creating projects,
 creating tasks within the project and even assing them a title and a date too.
 This project is part of my course program to teach myself Java.
 
