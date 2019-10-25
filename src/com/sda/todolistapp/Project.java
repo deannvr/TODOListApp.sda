@@ -2,10 +2,7 @@ package com.sda.todolistapp;
 
 import java.io.Serializable;
 import java.net.CookieHandler;
-import java.util.ArrayList;
-import java.util.Collections;
-import java.util.Comparator;
-import java.util.List;
+import java.util.*;
 
 public class Project implements Serializable{
     private String name;
@@ -121,4 +118,5 @@ public class Project implements Serializable{
             tasks.remove(index);
         }
     }
+
 }
